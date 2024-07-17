@@ -3,7 +3,7 @@
 $host="localhost";
 $user="root";
 $password="";
-$db="mms";
+$db="quiz";
 
 
 try{
